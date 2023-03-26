@@ -1,0 +1,17 @@
+abstract class MangeItPlusCubitStates {}
+class ManageItplusCubitInitialState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitCrateDataBaseState extends MangeItPlusCubitStates{
+}
+class ManageItPlusCubitInsertIntoBranchtableState extends MangeItPlusCubitStates{}
+class ManageItPlusLoadingState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitGetBranchtableState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitDeleteBranchState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitInsertIntoEmpCategorytableState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitGetEmpCategoryDatabaseState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitDeleteEmpCategoryState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitInsertIntoEmptableState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitGetEmpsDatabaseState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitDeleteEmpState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitInsertIntoEmpDetailstableState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitGetEmpDetailsDatabaseState extends MangeItPlusCubitStates{}
+class ManageItPlusCubitDeleteEmpDetailsState extends MangeItPlusCubitStates{}
